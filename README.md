@@ -1,5 +1,5 @@
 # Currency Live
-React app for real-time USD exchange rates
+React app for real-time USD/EUR/GEL exchange rates in Georgia
 ___________________________
 ## Technologies: 
 - React
